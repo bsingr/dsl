@@ -2,12 +2,37 @@
 
 1und1 Hotline: 0721 / 9600
 
-Olga bei 1und1 E-Mail
-Olga.Sobral@1und1.de
-
 # Vorgehen
 
 Router -> Lämpchen Status
+Power: an
+1: an
+2: an
+3: aus
+4: an
+dsl: an
+internet: schwach, aus oder blinkt (farbe?)
+
+
+DSL Grün. Die DSL-LED leuchtet bei jeder erfolgreichen DSL-Verbindung auf. Die LED blinkt,
+    während die ADSL-Verbindung hergestellt wird.
+
+Internet Grün. Die Internet-LED leuchtet grün auf, wenn eine Internetverbindung zur Sitzung des
+          Internetdienstanbieters (ISP) hergestellt wurde. Die Internet-LED leuchtet rot auf, wenn die
+         Verbindung zum ISP fehlgeschlagen ist.
+
+
+IP des Routers?
+
+Berichtaufzeichnung umbedingt aktivieren
+Über die Registerkarte Berichtaufzeichnung steht ein Protokoll zur Verfügung, in dem alle eingehenden und
+ausgehenden URLs bzw. IP-Adressen für Ihre Internetverbindung aufgeführt sind. Über diese Registerkarte
+stehen auch Protokolle für VPN- und Firewall-Ereignisse zur Verfügung.
+Abbildung 5-30: Berichtaufzeichnung
+• Protokoll: Um die Berichtaufzeichnung zu verwenden, klicken Sie auf Aktivieren.
+• Logviewer-IP-Adresse: Geben Sie in dieses Feld die IP-Adresse ein, über die die Protokolle empfangen
+werden sollen.
+
 
 # Situation
 
